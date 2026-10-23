@@ -1,0 +1,4 @@
+[submodule "spec"]
+	path = spec
+	url = https://github.com/DevOps0906/dongne-baedal-spec.git
+	branch = master
